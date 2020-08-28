@@ -6,3 +6,5 @@ def seconds_func(time):
     print(second)
 
 seconds_func(hours)
+
+#Refrence page from edabit: https://edabit.com/challenge/KWoj7kWiHRqJtG6S2
