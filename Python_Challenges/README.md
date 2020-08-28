@@ -1,16 +1,6 @@
-Every 5 files I up the difficulty  
-Goes: Very easy   
-Easy
+# Python Challenges
+## Table of contents
+* [About](#about)
 
-Medium
-
-Hard
-
-Very Hard
-
-Expert
-
-
-I do not up it if i feel like I am haveing trouble with it,
-   only if i have confedence in being able to complete them with absoloute certainty
-             
+## About
+A basic repo to help me and possibly other people with refrencing python code
