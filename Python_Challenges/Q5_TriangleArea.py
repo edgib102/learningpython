@@ -9,7 +9,7 @@ def tri_area(base, height):
     print(answr)
     return answr
 
-next_edge(num1, num2)
+tri_area(num1, num2)
 
 # challenge reference: https://edabit.com/challenge/aWLTzrRsrw7RakYrN
 # pretty much copy-pasted from Q3
