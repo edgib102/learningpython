@@ -2,7 +2,7 @@
 ## Table of contents
 * [About](#about)
 * [Rules and Levels](#rules-and-levels)
-* [Extra notes](3
+* [Extra notes](#extra-notes)
 
 ## About
 This is a basic repo to help me, and possibly other people with refrencing python code.
