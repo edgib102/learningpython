@@ -7,4 +7,6 @@ def seconds_func(time):
 
 seconds_func(hours)
 
+#Very easy
+#converts hours to seconds
 #Refrence page from edabit: https://edabit.com/challenge/KWoj7kWiHRqJtG6S2

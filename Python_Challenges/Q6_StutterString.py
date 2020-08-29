@@ -11,6 +11,6 @@ stutter(input())
     
 
 
-
+#Start of the easy challenges
 #Goal is to make a string to stutter like this: "in... in... incredible?" (any word)
 #Challenge from https://edabit.com/challenge/gt9LLufDCMHKMioh2

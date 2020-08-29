@@ -11,4 +11,6 @@ def next_edge(side1, side2):
 
 next_edge(num1, num2)
 
+# Very easy
+# Finds the maximum range of a triangle's third edge
 # challenge reference: https://edabit.com/challenge/Zerwo2AENbvRZTe83
