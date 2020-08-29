@@ -12,4 +12,6 @@ def remainder(x, y):
 
 remainder(num1, num2)
 
+#Very easy
+#returns the remainder (python remainder)
 #challenge refrence: https://edabit.com/challenge/KWoj7kWiHRqJtG6S2
