@@ -19,7 +19,7 @@ things im doing
 
 - for loops
 - while loops
-- if/elif/else
+- ~if/elif/else~
 
 #### Arithmetic and expressions
 
