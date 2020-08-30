@@ -5,7 +5,7 @@ things im doing
 
 ## Beginner
 
-- ~Data Types~
+#### Data Types
 - Lists
 - ~Strings~
 - Tuples
