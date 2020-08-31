@@ -18,7 +18,7 @@ things im doing
 #### Control Flow/Looping
 
 - ~~for loops~~
-- while loops
+- ~~while loops~~
 - ~~if/elif/else~~
 
 #### Arithmetic and expressions
