@@ -70,6 +70,11 @@ things im doing
 
 - Big O notation
 
+#### Automation Testing
+
+- Selenium Web Driver, IDE, Selenium Grid
+- TestNG
+
 ## Advanced - A.I. / Machine Learning/ Data science
 
 - Statistics
