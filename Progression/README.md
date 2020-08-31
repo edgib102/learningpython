@@ -17,7 +17,7 @@ things im doing
 
 #### Control Flow/Looping
 
-- for loops
+- ~~for loops~~
 - while loops
 - ~~if/elif/else~~
 
