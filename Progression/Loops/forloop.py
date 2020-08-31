@@ -3,8 +3,8 @@ randomNum = list()
 
 
 for x in range(0, 10):
-    aaaa = int(random.randint(0, 100))
-    randomNum.append(aaaa)
+    rand = int(random.randint(0, 10))
+    randomNum.append(rand)
 
 for x in randomNum:
     print(x)
