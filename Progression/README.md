@@ -2,6 +2,11 @@
 alright here this is temp anyway
 
 things im doing
+# Table of contents
+1. [Roadmap](#roadmap)
+2. [Resources](#resources)
+
+# Roadmap
 
 ## Beginner
 
@@ -153,3 +158,8 @@ things im doing
 ## Other
 
 Shamelessly stolen from [here](https://www.slitherintopython.com/blog/posts/ultimate-python-roadmap-2020.html)
+
+# Resources
+
+https://www.w3schools.com/python really usefull, helps with a lot of beginner stuff
+
