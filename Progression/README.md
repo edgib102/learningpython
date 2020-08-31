@@ -8,7 +8,7 @@ things im doing
 #### Data Types
 - ~~Lists~~
 - ~~Strings~~
-- Tuples
+- ~~Tuples~~
 - Sets
 - Floats
 - ~~Ints~~
@@ -23,7 +23,7 @@ things im doing
 
 #### Arithmetic and expressions
 
-- I/O (Input/Output)
+- I/O (Input/Output) 
 - Sys module
 - Standard input/output
 - Reading/writing files
