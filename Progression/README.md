@@ -17,7 +17,7 @@ things im doing
 
 #### Control Flow/Looping
 
-- for loops
+- ~~for loops~~
 - while loops
 - ~~if/elif/else~~
 
@@ -69,6 +69,11 @@ things im doing
 #### Algorithmic Complexity
 
 - Big O notation
+
+#### Automation Testing
+
+- Selenium Web Driver, IDE, Selenium Grid
+- TestNG
 
 ## Advanced - A.I. / Machine Learning/ Data science
 
