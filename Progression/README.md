@@ -15,7 +15,7 @@ things im doing
 - Booleans
 - Dictionaries
 
-#### Control Flow/Looping
+#### ~~Control Flow/Looping~~
 
 - ~~for loops~~
 - ~~while loops~~
