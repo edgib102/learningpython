@@ -6,8 +6,8 @@ things im doing
 ## Beginner
 
 #### Data Types
-- Lists
-- ~Strings~
+- ~~Lists~~
+- ~~Strings~~
 - Tuples
 - Sets
 - Floats
@@ -19,7 +19,7 @@ things im doing
 
 - for loops
 - while loops
-- ~if/elif/else~
+- ~~if/elif/else~~
 
 #### Arithmetic and expressions
 
