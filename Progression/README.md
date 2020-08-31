@@ -15,10 +15,10 @@ things im doing
 - Booleans
 - Dictionaries
 
-#### Control Flow/Looping
+#### ~~Control Flow/Looping~~
 
 - ~~for loops~~
-- while loops
+- ~~while loops~~
 - ~~if/elif/else~~
 
 #### Arithmetic and expressions
