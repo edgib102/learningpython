@@ -14,10 +14,10 @@ things im doing
 - ~~Lists~~
 - ~~Strings~~
 - ~~Tuples~~
-- Sets
+- ~~Sets~~
 - Floats
 - ~~Ints~~
-- Booleans
+- ~~Booleans~~
 - Dictionaries
 
 #### ~~Control Flow/Looping~~
