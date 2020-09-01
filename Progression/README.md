@@ -15,7 +15,7 @@ things im doing
 - **~~Strings~~**
 - **~~Tuples~~**
 - **~~Sets~~**
-- Floats
+- **~~Floats~~**
 - **~~Ints~~**
 - **~~Booleans~~**
 - Dictionaries
