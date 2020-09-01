@@ -11,20 +11,20 @@ things im doing
 ## Beginner
 
 #### Data Types
-- ~~Lists~~
-- ~~Strings~~
-- ~~Tuples~~
-- ~~Sets~~
+- **~~Lists~~**
+- **~~Strings~~**
+- **~~Tuples~~**
+- **~~Sets~~**
 - Floats
-- ~~Ints~~
-- ~~Booleans~~
+- **~~Ints~~**
+- **~~Booleans~~**
 - Dictionaries
 
 #### ~~Control Flow/Looping~~
 
-- ~~for loops~~
-- ~~while loops~~
-- ~~if/elif/else~~
+- **~~for loops~~**
+- **~~while loops~~**
+- **~~if/elif/else~~**
 
 #### Arithmetic and expressions
 
