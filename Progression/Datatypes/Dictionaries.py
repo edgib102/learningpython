@@ -10,3 +10,6 @@ if "drinking" in a_dict.values():
 
 for x, y in a_dict.items():
     print(x + ": " + str(y) + "\n")
+
+#does not say this in the .readme becuase i didn't want to mess up formatting
+#but I didn't know this before making this script
