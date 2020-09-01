@@ -28,7 +28,7 @@ things im doing
 
 #### Arithmetic and expressions (also start of learning that I didn't know before creating the repo)
 
-- I/O (Input/Output) 
+- **~~I/O (Input/Output)~~**
 - Sys module
 - Standard input/output
 - Reading/writing files
