@@ -10,7 +10,7 @@ things im doing
 
 ## Beginner
 
-#### Data Types
+#### ~~Data Types~~
 - **~~Lists~~**
 - **~~Strings~~**
 - **~~Tuples~~**
@@ -18,7 +18,7 @@ things im doing
 - **~~Floats~~**
 - **~~Ints~~**
 - **~~Booleans~~**
-- Dictionaries
+- **~~Dictionaries~~**
 
 #### ~~Control Flow/Looping~~
 
@@ -26,7 +26,7 @@ things im doing
 - **~~while loops~~**
 - **~~if/elif/else~~**
 
-#### Arithmetic and expressions
+#### Arithmetic and expressions (also start of learning that I didn't know before creating the repo)
 
 - I/O (Input/Output) 
 - Sys module
