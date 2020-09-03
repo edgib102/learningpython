@@ -2,10 +2,10 @@ import random
 a_list = set()
 
 while True:
-    rand_int = random.randint(1, 20)
+    rand_int = random.randint(1, 10)
     a_list.add(rand_int)
     print (a_list)
-
+#orginises a set?? idk why but i think i undersatnd them now maybe (then again i dont know why it orginises but whatever)
 
     
     

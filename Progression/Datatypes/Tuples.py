@@ -1,3 +1,4 @@
+
 fruit = ("apple", "banana", "cherry", "orange", "strawberry")
 
 for x in fruit:

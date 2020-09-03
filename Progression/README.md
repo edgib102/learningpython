@@ -31,7 +31,7 @@ things im doing
 - **~~I/O (Input/Output)~~**
 - Sys module
 - Standard input/output
-- Reading/writing files
+- **~~Reading/writing files~~**
 - **~~Functions~~**
 - Exceptions and Error Handling
 - Basics of object oriented programming (OOP) (Simple classes).
