@@ -32,7 +32,7 @@ things im doing
 - Sys module
 - Standard input/output
 - Reading/writing files
-- Functions
+- **~~Functions~~**
 - Exceptions and Error Handling
 - Basics of object oriented programming (OOP) (Simple classes).
 
