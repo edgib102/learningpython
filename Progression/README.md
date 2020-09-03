@@ -34,7 +34,7 @@ things im doing
 - **~~Reading/writing files~~**
 - **~~Functions~~**
 - Exceptions and Error Handling
-- Basics of object oriented programming (OOP) (Simple classes).
+- **~~Basics of object oriented programming (OOP) (Simple classes)~~**
 
 ## Intermediate
 
