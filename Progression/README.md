@@ -33,7 +33,7 @@ things im doing
 - Standard input/output
 - **~~Reading/writing files~~**
 - **~~Functions~~**
-- Exceptions and Error Handling
+- **~~Exceptions and Error Handling~~**
 - **~~Basics of object oriented programming (OOP) (Simple classes)~~**
 
 ## Intermediate
