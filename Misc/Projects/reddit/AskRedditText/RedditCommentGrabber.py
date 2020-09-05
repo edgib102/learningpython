@@ -2,7 +2,7 @@ import praw
 
 username = 'edgib102'
 password = 'Edgib101'
-path = "/Users/bridgibson/Documents/GitHub/learningpython/Misc/Projects/reddit/AskRedditText/txt_files/test.txt"
+path = "/Users/bridgibson/Documents/GitHub/learningpython/Misc/Projects/reddit/AskRedditText/files/test.txt"
 afile = open(path, 'w')
 afile.truncate
 
@@ -18,10 +18,12 @@ for submission in subreddit_hot:
     comments = submission.comments
 
     for comment in comments:
-        print('\n', 20*'-', '\n')
         try:
             afile.write(comment.body)
             afile.write('\n\n')
         except:
             break
+
 print("ended")
+
+#assume that the output to the .txt is the final with formatting
